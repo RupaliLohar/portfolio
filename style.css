@@ -251,7 +251,7 @@ section {
     height: 400px;
     background: url(assets/Profile.png);
     background-size: cover;
-    background-position: top;
+    background-position: center;
     border-radius: 12px;
     display: flex;
     align-items: center;
@@ -543,3 +543,4 @@ footer {
     }
 
 }
+
